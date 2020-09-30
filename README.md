@@ -1,2 +1,2 @@
-# C-language
+# C Language
 c
